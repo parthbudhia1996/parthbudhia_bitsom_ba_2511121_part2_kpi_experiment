@@ -68,7 +68,8 @@
 * **Support Ticket Extension Friction:** Support contact rates increased from **14.65% to 24.89%**. The treatment group caused some platform strain. This extra **10.24%** represents a deliberate, high-intent consideration phase of friction. It indicates that the new onboarding workflow can create a slightly longer consideration window, which could delay short-term cash flow recognition.
 
 
-### 8. Repository Artifact Screenshots Checklist
+## 8. Repository Artifact Screenshots Checklist
+
 * `screenshots/summary_metrics.png` (Shows core Control vs Treatment Excel comparison)
 * `screenshots/hypothesis_test_output.png` (Shows t-test calculations, critical values, and p-value)
 * `screenshots/kpi_tree_preview.png` (Shows image layout of the metric driver flow)
